@@ -17,6 +17,9 @@ Creating a Check list
 ### to do list
 - [x] <del> create a to do list </del>
 - [ ] add more iteams from the paper
+- [x] <del> Make a good and professional xbox promotion website </del>
+- [ ] want to have a official design for my website 
+
 
 
 ---
