@@ -28,7 +28,7 @@ Creating a Check list
 - [ ] Promote the newest and highly asked items 
 - [ ] create a authors page 
 - [ ] have guided help and where to buy the items 
-- [ ] have a range of prices
+- [ ] have a range of prices 
 
 
 
